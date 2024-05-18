@@ -1,0 +1,397 @@
+ID,Pipeline,PipelineStage,Notes,TranslationNotes,Tags,Text
+1,,,,Mod Title,,Zaawansowane ustawienia gry
+2,,,,Mod Page Description,,"Rozszerza standardowy tryb gry Age of Empires 4 o nowe opcje i naprawdę daje możliwość dostosowania ustawień meczu.\n\nZawiera dodatkowe warunki zwycięstwa, takie jak wynik, klasyczna opcja króla wzgórza, gorączka cudów i wiele innych typów zwycięstwa. Zapewnia nowe opcje, takie jak różne starty, np. nomad lub ufortyfikowany, oraz wiele nowych opcji, w tym traktat i dyplomacja, ograniczenia wiekowe, handicap...\n\nPomoc, opinie, raporty o błędach i wkład w tryb można uzyskać pod adresem: \nhttps:// github.com/search?q=AOE4-AdvancedGameSettings\nTłumaczenia społeczności:\n – chiński\n – czeski\n – francuski"
+3,,,,Mod Gamemode Description,,"Zaawansowane ustawienia gry zapewniają różnorodne opcje meczów i warunków wygranej, dzięki czemu możesz dostosować swoją grę i grać tak, jak chcesz.\n\nPomoc, opinie, raporty o błędach i wkład w tryb można uzyskać pod adresem:\nhttps://github .com/search?q=AOE4-AdvancedGameSettings"
+4,,,,Option Header,,Warunki wygranej
+5,,,,Annihilation Option,,Unicestwienie
+6,,,,Annihilation Option,,"Zniszcz wszystkich wrogów. Ta opcja jest wymagana, chyba że chcesz, aby gracz nigdy nie został wyeliminowany, nawet jeśli straci wszystko"
+7,,,,Elimination Option,,Eliminacja
+8,,,,Elimination Option,,"Zwyciężaj dłużej niż wszyscy twoi wrogowie. Wyłączenie tej opcji uniemożliwi rozstrzygnięcie meczu, jeśli ostatni przeciwnik opuści grę."
+9,,,,Surrender Option,,Poddać się
+10,,,,Surrender Option,,Nie poddawaj się. Wyłączenie tej opcji uniemożliwi rozstrzygnięcie meczu w przypadku poddania się ostatniego przeciwnika.
+11,,,,Conquest Option,,Podbój
+12,,,,Conquest Option,,Zdobądź wszystkie cele wroga
+13,,,,Regicide Option,,Królobójstwo
+14,,,,Regicide Option,,Pokonaj wszystkich wrogich królów
+15,,,,Religious Option,,Religijny
+16,,,,Religious Option,,Kontroluj wszystkie święte miejsca
+17,,,,Wonder Option,,Cud
+18,,,,Wonder Option,,Buduj i broń Cudu
+19,,,,Score Option,,Wynik
+20,,,,Score Option,,Zdobądź najwyższy wynik przed upływem czasu
+21,,,,Option Header,,Warunki gry
+22,,,,Settlement Option,,Osada
+23,,,,Settlement Option,,Wstępna osada
+24,,,,Settlement Option,,Rozsiany
+25,,,,Settlement Option,,Koczowniczy
+26,,,,Settlement Option,,Zadomowiony
+27,,,,Treaty Option,,Traktat
+28,,,,Treaty Option,,Okres pokoju
+29,,,,Generic,,Wyłączony
+30,,,,Generic,,5 minut
+31,,,,Generic,,10 minut
+32,,,,Generic,,15 minut
+33,,,,Generic,,20 minut
+34,,,,Generic,,25 minut
+35,,,,Generic,,30 minut
+36,,,,Generic,,35 minut
+37,,,,Generic,,40 minut
+38,,,,Generic,,45 minut
+39,,,,Generic,,50 minut
+40,,,,Generic,,55 minut
+41,,,,Generic,,60 minut
+42,,,,Generic,,65 minut
+43,,,,Generic,,70 minut
+44,,,,Generic,,75 minut
+45,,,,Generic,,80 minut
+46,,,,Generic,,85 minut
+47,,,,Generic,,90 minut
+48,,,,Generic,,95 minut
+49,,,,Generic,,100 minut
+50,,,,Generic,,105 minut
+51,,,,Generic,,110 minut
+52,,,,Generic,,115 minut
+53,,,,Generic,,120 minut
+54,,,,Team Victory Option,,Zwycięstwo Zespołu
+55,,,,Team Victory Option,,Umożliwia drużynom wygranie meczu
+56,,,,Team Victory Option,,Darmowy dla wszystkich
+57,,,,Team Victory Option,,Początkowe zespoły
+58,,,,Team Victory Option,,Zespoły dynamiczne
+59,,,,Team Solidarity Option,,Zespół Solidarności
+60,,,,Team Solidarity Option,,"Jeśli którykolwiek członek drużyny zostanie pokonany, drużyna ta natychmiast przegrywa grę. Jeden za wszystkich. Wszyscy za jednego."
+61,,,,Option Header,,Ustawienia wygranej
+62,,,,Conquest Option,,Podbój stolicy
+63,,,,Conquest Option,,"Podbój wymaga zniszczenia pierwszego centrum miasta, aby wyeliminować gracza"
+64,,,,Conquest Option,,Punkty podboju
+65,,,,Conquest Option,,"Podbój wymaga zniszczenia wszystkich punktów orientacyjnych w górę, aby wyeliminować gracza"
+66,,,,Conquest Option,,Podbój centrów miast
+67,,,,Conquest Option,,"Podbój wymaga zniszczenia wszystkich dodatkowych centrów miast, aby wyeliminować gracza"
+68,,,,Conquest Option,,Twierdze podboju
+69,,,,Conquest Option,,"Podbój wymaga zniszczenia wszystkich twierdz, aby wyeliminować gracza"
+70,,,,Conquest Option,,Podbuj Cudu
+71,,,,Conquest Option,,"Podbój wymaga zniszczenia cudu, aby wyeliminować gracza"
+72,,,,Religious Option,,Zegar religijny
+73,,,,Religious Option,,Czas wymagany do utrzymania wszystkich świętych miejsc
+74,,,,Generic,,Natychmiastowy
+75,,,,Generic,,1 minuty
+76,,,,Generic,,2 minuty
+77,,,,Generic,,3 minuty
+78,,,,Generic,,4 minuty
+79,,,,Generic,,6 minut
+80,,,,Generic,,7 minut
+81,,,,Generic,,8 minut
+82,,,,Generic,,9 minut
+83,,,,Generic,,11 minut
+84,,,,Generic,,12 minut
+85,,,,Generic,,13 minut
+86,,,,Generic,,14 minut
+87,,,,Religious Option,,Religijny licznik czasu wznowienia
+88,,,,Religious Option,,Odliczanie czasu trwa od chwili przerwania podczas ponownego przechwytywania
+89,,,,Wonder Option,,Czas Cudu
+90,,,,Wonder Option,,Czas potrzebny na obronę cudu
+91,,,,Wonder Option,,"Zastanawiam się, ostatni bastion"
+92,,,,Wonder Option,,Zniszczenie gotowego cudu wyeliminuje właściciela
+93,,,,Wonder Option,,Koszt cudu w skali
+94,,,,Wonder Option,,Skaluj koszt cudu świata w oparciu o liczbę graczy. Określa dodatkową ilość wszystkich zasobów na gracza. Cena zaczyna się od 3000 każdego zasobu.
+95,,,,Generic,,0 na gracza
+96,,,,Generic,,250 na gracza
+97,,,,Generic,,375 na gracza
+98,,,,Generic,,500 na gracza
+99,,,,Generic,,750 na gracza
+100,,,,Generic,,1000 na gracza
+101,,,,Generic,,1500 na gracza
+102,,,,Generic,,2000 na gracza
+103,,,,Option Header,,Ustawienia gry
+104,,,,Tribute Option,,Hołdy
+105,,,,Tribute Option,,Gracze mogą wysyłać zasoby do sojuszników
+106,,,,Diplomacy Option,,Dyplomacja
+107,,,,Diplomacy Option,,Gracze mogą tworzyć własne sojusze
+108,,,,Team Vision Option,,Podgląd Zespołu
+109,,,,Team Vision Option,,Wspólna podgląd pomiędzy sojusznikami
+110,,,,Generic,,Nic
+111,,,,Team Vision Option,,Wymaga rynku
+112,,,,Team Vision Option,,Zawsze
+113,,,,Map Vision Option,,Podgląd Mapy
+114,,,,Map Vision Option,,Rozpoczęcie widzenia na mapie
+115,,,,Map Vision Option,,Ukryty
+116,,,,Map Vision Option,,Zbadane
+117,,,,Map Vision Option,,Ujawnione
+118,,,,Age Option,,Wiek początkowy
+119,,,,Age Option,,Wiek początkowy dla wszystkich graczy
+120,,,,Age Option,,Ciemny wiek
+121,,,,Age Option,,Wiek feudalny
+122,,,,Age Option,,Wiek Zamku
+123,,,,Age Option,,Wiek imperialny
+124,,,,Age Option,,Epoka późnoimperialna
+125,,,,Age Option,,Kończący się wiek
+126,,,,Age Option,,Ostateczny wiek dla wszystkich graczy
+127,,,,Age Option,,Wiek technologii
+128,,,,Age Option,,Wstępne technologie opracowane dla wszystkich graczy
+129,,,,Resource Option,,Zasoby początkowe
+130,,,,Resource Option,,Zasoby początkowe dla wszystkich graczy
+131,,,,Generic,,Normalna
+132,,,,Generic,,Wysokie
+133,,,,Generic,,Bardzo wysokie
+134,,,,Generic,,Maksymalne
+135,,,,FOW Option,,Ujawnij FOW po eliminacji
+136,,,,FOW Option,,Usuwa FOW dla wyeliminowanego gracza
+137,,,,Option Header,,Ustawienia dopasowania
+138,,,,Score Visibility Option,,Pokaż wynik
+139,,,,Score Visibility Option,,"Wyniki graczy są widoczne, gdy włączone są informacje o przypiętych graczach"
+140,,,,Score Option,,Wynik Pokaż miejsce
+141,,,,Score Option,,"Pokaż aktualne miejsce solo w rankingu trybu punktowego. Wynik drużyny jest oceniany dopiero na koniec gry, jeśli dozwolone jest zwycięstwo drużyny. Warunek zwycięstwa punktowego nie korzysta z tej samej metryki co wynik domyślny."
+142,,,,Score Option,,Licznik wyników
+143,,,,Score Option,,"Czas, po którym zdobyta bramka zadecyduje o meczu"
+144,,,,Population Option,,Minimalna pojemność populacji
+145,,,,Population Option,,Zmienia początkową pojemność populacji bez domów. Nie przekroczy maksymalnej liczby ludności.
+146,,,,Population Option,,Maksymalna pojemność populacji
+147,,,,Population Option,,"Zmienia maksymalną pojemność populacji. Aby do niego dotrzeć, wymagane są domy."
+148,,,,Number,,0
+149,,,,Number,,25
+150,,,,Number,,50
+151,,,,Number,,75
+152,,,,Number,,100
+153,,,,Number,,125
+154,,,,Number,,150
+155,,,,Number,,175
+156,,,,Number,,200
+157,,,,Number,,225
+158,,,,Number,,250
+159,,,,Number,,275
+160,,,,Number,,300
+161,,,,Number,,350
+162,,,,Number,,400
+163,,,,Number,,450
+164,,,,Number,,500
+165,,,,Number,,550
+166,,,,Number,,600
+167,,,,Number,,650
+168,,,,Number,,700
+169,,,,Number,,750
+170,,,,Number,,800
+171,,,,Number,,850
+172,,,,Number,,900
+173,,,,Number,,950
+174,,,,Number,,1000
+175,,,,Number,,10000
+176,,,,Villager Option,,Początkujący wieśniacy
+177,,,,Villager Option,,Zmienia początkową liczbę mieszkańców wioski dla każdego gracza
+178,,,,Number,,1
+179,,,,Number,,2
+180,,,,Number,,3
+181,,,,Number,,4
+182,,,,Number,,5
+183,,,,Number,,6
+184,,,,Number,,7
+185,,,,Number,,8
+186,,,,Number,,9
+187,,,,Number,,10
+188,,,,Number,,15
+189,,,,Number,,20
+190,,,,Number,,30
+191,,,,Number,,35
+192,,,,Number,,40
+193,,,,Number,,45
+194,,,,Keep Option,,Uruchom Keep
+195,,,,Keep Option,,Każdy gracz zaczyna od pozycji Keep Near
+196,,,,Option Header,,Starsze ustawienia
+197,,,,King Option,,Począwszy od króla
+198,,,,King Option,,Każdy gracz zaczyna z królem na początku
+199,,,,Ding Option,,Ding
+200,,,,Ding Option,,Easter Egg
+201,,,,Market Option,,Wczesny Rynek
+202,,,,Market Option,,Umożliwia budowę rynku w Dark Age
+203,,,,Tree Option,,Bombardowanie drzew
+204,,,,Tree Option,,Umożliwia oblężeniu i statkom z docelowym terenem niszczenie drzew
+205,,,,Speed Option,,Szybkość symulacji
+206,,,,Speed Option,,Zmienia znaczniki symulacji gry. Ta opcja nie może być używana w trybie wieloosobowym i zostanie wyłączona.
+207,,,,Game Rate Option,,Mnożnik Gry
+208,,,,Game Rate Option,,"Mnoży wszystkie następujące szybkości zbierania, szybkość budowy, szybkość naprawy i prędkość produkcji przez wybraną wartość."
+209,,,,Number,,1x
+210,,,,Number,,2x
+211,,,,Number,,3x
+212,,,,Number,,4x
+213,,,,Number,,5x
+214,,,,Number,,6x
+215,,,,Number,,7x
+216,,,,Number,,8x
+217,,,,Number,,9x
+218,,,,Number,,10x
+219,,,,Number,,0.95x
+220,,,,Number,,0.90x
+221,,,,Number,,0.85x
+222,,,,Number,,0.80x
+223,,,,Number,,0.75x
+224,,,,Number,,20x
+225,,,,TC Option,,Ograniczenia w centrum miasta
+226,,,,TC Option,,Blokuje budowę dodatkowych centrów miast
+227,,,,TC Option,,Nic
+228,,,,TC Option,,Normalny
+229,,,,TC Option,,Zabytki
+230,,,,Team Solidarity,,Chroń swoich kolegów z drużyny.
+231,,,,Team Solidarity,,%1PLAYER_NAME% poddał się w ramach solidarności ze swoim kolegą z drużyny
+232,,,,Treaty,,%1MINUTES_REMAINING% minut do końca Traktatu
+233,,,,Treaty,,"Traktat się skończył, przygotuj się na rozlew krwi."
+234,,,,Diplomacy,,Relacje
+235,,,,Diplomacy,,Przyjaźń
+236,,,,Diplomacy,,Neutralność
+237,,,,Diplomacy,,Wrogość
+238,,,,Diplomacy,,Aktualne stanowisko
+239,,,,Diplomacy,,Zaprzyjaźnij się z %1PLAYER_NAME%
+240,,,,Diplomacy,,Stań się neutralny wobec %1PLAYER_NAME%
+241,,,,Diplomacy,,Stań się wrogo nastawiony do %1PLAYER_NAME%
+242,,,,Settlement Option Summary,,Rozproszony początek
+243,,,,King Option,,Umocniony Król
+244,,,,King Option,,Król będzie miał dodatkowe bonusy i umiejętności
+245,,,,Team Balance Option,,Bilans zespołu
+246,,,,Team Balance Option,,"Jeśli zespół straci gracza, pozostali członkowie będą dzielić jego pojemność populacji i zasoby. Zespoły dynamiczne nie kwalifikują się do tego."
+247,,,,Team Balance Option,,Populacja
+248,,,,Team Balance Option,,Ludność i zasoby
+249,,,,Dock Option,,Brak Portów
+250,,,,Dock Option,,Blokuje budowę portów w każdym wieku. Nie zaleca się używania go na mapach oddzielających graczy jedynie wodą.
+251,,,extra_text,Generic,,Średni
+252,,,help_text,Surrender,,Walcz aż do gorzkiego końca.
+253,,,extra_text,Elimination,,Wykończyć do końca.
+254,,,help_text,"Regicide King Unit, Requires Attributes",,"Monarcha nie podlega żadnej ziemskiej władzy, a swoje prawo do sprawowania władzy czerpie bezpośrednio z woli Bożej. Tylko go nie zadawaj!"
+255,,,screen_name,"Regicide King Unit, Requires Attributes",,Król
+256,,,,Settlement Option,,Warowny
+257,,,ags_conditions_objectives,Team Solidarity,,Nie udało się chronić %1PLAYER_NAME%.
+258,,,ags_conditions_objectives,Team Solidarity,,Wszystkie inne zespoły rozpadły się.
+259,,,ags_conditions_objectives,Annihilation,,Zniszczyć wszystko.
+260,,,,AI Takeover,,Włącz przejęcia AI
+261,,,,AI Takeover,,"Gracze, którzy opuszczą grę, zamiast zostać wyeliminowani, zostaną zastąpieni przez sztuczną inteligencję."
+262,,,ags_conditions_objectives,Regicide,,Naprawdę jesteś królem wszystkich.
+263,,,ags_conditions_objectives,Regicide,,Nie udało się ochronić króla.
+264,,,ags_conditions_notifications,Regicide,,%1PLAYER_NAME% zamordowany
+265,,,ags_conditions_objectives,Regicide,,Wróg atakuje króla %1PLAYER_NAME%.
+266,,,ags_conditions_notifications,Regicide,,Król atakowany
+267,,,ags_conditions_notifications,Conquest,,"""%1PLAYER_NAME% podbity”"
+268,,,ags_conditions_objectives,Conquest,,Twoje imperium zostało podbite.
+269,,,ags_conditions_objectives,Conquest,,Pokonał wszystkich wrogów.
+270,,,ags_conditions_objectives,Score,,Przetrwaj i przyćmij wszystkich.
+271,,,ags_conditions_objectives,Score,,Historia zapomniała o twoim imperium.
+272,,,ags_conditions_objectives,Score,,Twoje Imperium świeci najjaśniej.
+273,,,ags_conditions_notifications,Score,,Nadal czeka %1PLAYER_NAME% na Godota.
+274,,,ags_conditions_notifications,Wonder,,%1PLAYER_NAME% nie mógł wytrzymać chwały cudu
+275,,,ags_conditions_notifications,Wonder,,Budowanie cudu
+276,,,ags_conditions_notifications,Conquest,,Zniszczony punkt orientacyjny
+277,,,ags_conditions_objectives,Wonder,,Nie udało się utrzymać cudu.
+278,,,,Option Header,,Ustawienia gracza
+279,,,,Colors,,Wymuś kolory
+280,,,,Colors,,"Poprawia kolory dla dyplomacji. Powoduje automatyczną aktualizację kolorów dla każdego slotu, ilekroć gra powoduje sprzeczne zmiany. Ta opcja wyłącza kolory drużyn i sprawia, że są one niedostępne."
+281,,,,Colors,,Używane przez wymuszenie koloru do określenia koloru używanego przez to miejsce. Wymaga zezwolenia na wymuszanie kolorów.
+282,,,,Colors,,Niebieski
+283,,,,Colors,,Czerwony
+284,,,,Colors,,Żółty
+285,,,,Colors,,Zielony
+286,,,,Colors,,Turkusowy
+287,,,,Colors,,Fioletowy
+288,,,,Colors,,Pomarańczowy
+289,,,,Colors,,Różowy
+290,,,,Colors,,Szary
+291,,,,Colors,,Wymuszony kolor miejsca 1
+292,,,,Colors,,Wymuszony kolor miejsca 2
+293,,,,Colors,,Wymuszony kolor miejsca 3
+294,,,,Colors,,Wymuszony kolor miejsca 4
+295,,,,Colors,,Wymuszony kolor miejsca 5
+296,,,,Colors,,Wymuszony kolor miejsca 6
+297,,,,Colors,,Wymuszony kolor miejsca 7
+298,,,,Colors,,Wymuszony kolor miejsca 8
+299,,,,Unit Rates Option,,Rating jednostek
+300,,,,Unit Rates Option,,Mnoży maksymalną prędkość ruchu jednostek przez wybraną wartość.
+301,,,,Number,,1.05x
+302,,,,Number,,1.10x
+303,,,,Number,,1.15x
+304,,,,Number,,1.20x
+305,,,,Number,,1.25x
+306,,,,Treaty,,1 minuta do końca Traktatu
+307,,,ags_conditions_objectives,Treaty,,Przygotuj się na wojnę.
+308,,,ags_conditions_objectives,Treaty,,To nie powinno się wydarzyć.
+309,,,ags_conditions_objectives,Treaty,,Pióro to naprawdę najsilniejsza broń w historii.
+310,,,ags_conditions_notifications,Score,,%1MINUTES_REMAINING% minut do zakończenia gry
+311,,,ags_conditions_notifications,Score,,1 minuta do zakończenia gry
+312,,,ags_conditions_objectives,Score,,Przetrwaj i przyćmij wszystkich. Pozycja %1RANK_POSITION%.
+313,,,ags_conditions_notifications,Religious,,%1PLAYER_NAME% pokłonił się nowemu bogu
+314,,,,Number,,1.50x
+315,,,,Number,,1.75x
+316,,,,Ingame Button,,Przełącz cele
+317,,,,Ingame Button,,Przełącza między wyświetlaniem celów lub ich tymczasowym ukrywaniem.
+318,,,,Ingame Button,,Zaawansowane ustawienia gry
+319,,,,Ingame Button,,Informacja zwrotna
+320,,,ags_match_ui,Ingame Button,,Ustawienia dopasowania
+321,,,ags_match_ui,Ingame Button,,Wersja moda:
+322,,,,Mod Title,,Nomad AGS
+323,,,,Mod Gamemode Description,,"Nomad opiera się na dobrze znanym innym modzie nomadów. Opiera się to na zaawansowanych ustawieniach gry i dzięki temu zapewnia dyplomację i kilka opcji, które pozostają wierne naturze nomadów.\n\nPomoc, opinie, raporty o błędach i wkład w tryb można uzyskać pod adresem:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+324,,,,Wonder Construction,,Cudowna konstrukcja
+325,,,,Wonder Construction,,Umożliwia budowę Cudu bez warunku wygranej Cudu lub warunku wygranej Podboju z wybranym Cudem Podboju.
+326,,,,Double Workers Option,,Podwójni pracownicy
+327,,,,Double Workers Option,,"Zmniejsza o połowę koszt i prędkość produkcji wszystkich jednostek ekonomicznych: wieśniaka, handlarza, łodzi rybackiej dla wszystkich graczy."
+328,,,,Handicap Option,,Ustawienia handicapu
+329,,,,Handicap Option,,Typ handicapu
+330,,,,Handicap Option,,"Jeśli nie jest wyłączony, zapewnia każdemu graczowi poziom premii określony dla tego slotu. Rodzaj premii jest ekonomiczny, militarny lub oba."
+331,,,,Handicap Option,,Obydwa
+332,,,,Handicap Option,,Wojskowy
+333,,,,Handicap Option,,Gospodarczy
+334,,,,Handicap Option,,Handicap miejsca 1
+335,,,,Handicap Option,,Określa wartość bonusu zapewnianego przez handicap graczowi na tym slocie w lobby.
+336,,,,Number,,10%
+337,,,,Number,,20%
+338,,,,Number,,30%
+339,,,,Number,,40%
+340,,,,Number,,50%
+341,,,,Number,,60%
+342,,,,Number,,70%
+343,,,,Number,,80%
+344,,,,Number,,90%
+345,,,,Number,,100%
+346,,,,Number,,150%
+347,,,,Number,,200%
+348,,,,Number,,250%
+349,,,,Number,,300%
+350,,,,Handicap Option,,Slot 2 Handicap
+351,,,,Handicap Option,,Slot 3 Handicap
+352,,,,Handicap Option,,Slot 4 Handicap
+353,,,,Handicap Option,,Slot 5 Handicap
+354,,,,Handicap Option,,Slot 6 Handicap
+355,,,,Handicap Option,,Slot 7 Handicap
+356,,,,Handicap Option,,Slot 8 Handicap
+357,,,,Treasure Option,,Skarby
+358,,,,Treasure Option,,Niewiele skarbów pojawi się losowo na mapie.
+359,,,,Resource Option,,Niski
+360,,,,State Wars,,"Podbij większość miast-państw, aby zapewnić sobie zwycięstwo. Każdy gracz zaczyna z kilkoma mnichami i musi znaleźć i przejąć miasto.\nWybór cywilizacji nie ma żadnego wpływu. Populacja jest ograniczona do 150. Drużyna kontrolująca 75% miast wygra grę.\n\nPomoc, opinie, raporty o błędach i wkład w tryb można uzyskać pod adresem:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
+361,,,,State Wars,,Wojny między miastami a państwami
+362,,,ags_conditions_objectives,State Wars,,Kontroluj większość miast
+363,,,ags_conditions_objectives,State Wars,,Miasto %1NAMEORNUMBER%
+364,,,ags_culture_data,State Wars,,%1PLAYER_NAME% został zasymilowany
+365,,,ags_culture_data,State Wars,,Zbliżasz się do Zwycięstwa Kultury
+366,,,ags_culture_data,State Wars,,Twój zespół zbliża się do Zwycięstwa Kultury
+367,,,ags_culture_data,State Wars,,Wróg zbliża się do Zwycięstwa Kultury
+368,,,ags_culture_data,State Wars,,Zdobycie państwa-miasta
+369,,,ags_culture_data,State Wars,,Sojusznik zdobywa państwo-miasto
+370,,,ags_culture_data,State Wars,,Wróg zdobywa państwo-miasto
+371,,,ags_culture_data,State Wars,,Miasto-państwo zdobyte
+372,,,ags_culture_data,State Wars,,Sojusznicy zdobyli państwo-miasto
+373,,,ags_culture_data,State Wars,,Wróg zdobył państwo-miasto
+374,,,ags_culture_data,State Wars,,Konkurujące państwo-miasto
+375,,,ags_culture_data,State Wars,,Sojusznik kwestionujący państwo-miasto
+376,,,ags_culture_data,State Wars,,Wróg konkurujący z Państwem-Miastem
+377,,,ags_culture_data,State Wars,,Wyzwolone państwo-miasto
+378,,,ags_culture_data,State Wars,,Wyzwolone przez sojuszników państwo-miasto
+379,,,ags_culture_data,State Wars,,Miasto-państwo utracone
+380,,,ags_culture_data,State Wars,,Wyzwalające Państwo-Miasto
+381,,,ags_culture_data,State Wars,,Sojusznik wyzwalający-miasto-państwo
+382,,,ags_culture_data,State Wars,,Wróg wyzwalający-miasto-państwo
+383,,,,Conquest Option,,Podbój drużynowy
+384,,,,Conquest Option,,"Gracze zostają podbici tylko wtedy, gdy wszystkie możliwe do zdobycia budynki ich członków drużyny zostaną zniszczone. Nie działa z zespołami dyplomatycznymi ze względu na sposób funkcjonowania relacji."
+385,,,,Nomad Scout Option,,Spawn Skaut (rozproszony)
+386,,,,Nomad Scout Option,,"Oprócz mieszkańców wioski pojawia się zwiadowca, jeśli wybrano opcję Rozproszona osada."
+387,,,,Religious Option,,Pojedynczy ośrodek religijny o charakterze religijnym
+388,,,,Religious Option,,"Zastępuje wszystkie święte miejsca wygenerowane przez generator map pojedynczym miejscem, które jest umieszczone jak najbliżej środka mapy."
+389,,,,House Option,,Dodaj pojemność domu
+390,,,,House Option,,Dodatkowa pojemność domów.
+391,,,,Tournament Option,,Bilans turnieju
+392,,,,Tournament Option,,Pełną listę zmian znajdziesz w oficjalnym repozytorium GitHub.
+393,,,,,,Turniej Nomadów AGS
+394,,,,,,Wstępnie skonfigurowana wersja Nomada dla The Nomadic Clash organizowanego przez MrMerlina.
+395,,,,KOTH,,Król wzgórza AGS
+396,,,,KOTH,,"Umożliwia szybką grę w King of the Hill na dowolnej mapie.\n\nPomoc, opinie, raporty o błędach i wkład w tryb można uzyskać pod adresem:\nhttps://github.com/search?q=AOE4-AdvancedGameSettings"
